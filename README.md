@@ -1,1 +1,1 @@
-# -FYS-STK4155-Weekly-exercises
+# FYS-STK4155-Weekly-exercises
